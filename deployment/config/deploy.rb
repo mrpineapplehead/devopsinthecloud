@@ -1,3 +1,4 @@
+#Adding comment at the top!
 require 'rubygems'
 require 'aws-sdk'
 load '/usr/share/tomcat6/scripts/config/aws.config'
